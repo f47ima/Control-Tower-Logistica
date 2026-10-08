@@ -16,7 +16,7 @@ Dashboard operativo en Power BI para monitorear la **colecta de paquetes** (pick
 
 ## Datos
 
-Los datos son **sintéticos**: se generan con el script `dataScript.py` (Python + pandas), escrito con asistencia de IA. No se usan datos reales de ninguna empresa.
+Los datos son **sintéticos**: se generan con el script `dataScript.py` (Python + pandas). No se usan datos reales de ninguna empresa.
 
 El modelo es una estrella simple con dos tablas:
 
